@@ -4,9 +4,9 @@ EJE TEMÁTICO I	N° 1
 Eje Temático I: Diseño de estructuras moleculares	1
 ## COMPETENCIAS GENÉRICAS
 - Capacidad para utilizar herramientas computacionales en el modelado molecular
-•	Habilidad para interpretar datos científicos y visualizar estructuras químicas
-•	Pensamiento crítico y analítico en la resolución de problemas químicos
-•	Trabajo colaborativo en entornos de investigación científica
+- Habilidad para interpretar datos científicos y visualizar estructuras químicas
+- Pensamiento crítico y analítico en la resolución de problemas químicos
+- Trabajo colaborativo en entornos de investigación científica
 ## COMPETENCIAS ESPECÍFICAS
 - Manipular software especializado (Avogadro y WebMO) para el diseño molecular
 •	Aplicar algoritmos de mecánica molecular (MM) para optimizar estructuras
