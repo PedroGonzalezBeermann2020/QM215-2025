@@ -19,7 +19,7 @@ Eje Temático I: Diseño de estructuras moleculares
 
 | FECHA |	CONTENIDOS | ACTIVIDADES  ACADÉMICAS  INNOVADORAS |
 |-------|------------|--------------------------------------|
-| Semana 1-2 |	1. Diseño de moléculas utilizando el programa Avogadro | - Demostración interactiva del software Avogadro |
+| Semana 1-2 |	1. Diseño de moléculas utilizando el programa Avogadro | - Demostración interactiva del software Avogadro  - Taller práctico de diseño de moléculas orgánicas e inorgánicas |
 |            |                                                         | - Taller práctico de diseño de moléculas orgánicas e inorgánicas |
 |            |  2. Optimización de estructuras moleculares utilizando algoritmos de MM |    |
    
