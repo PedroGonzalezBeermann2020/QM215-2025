@@ -3,7 +3,7 @@
 
 Nombre del Estudiante:____________________________Cédula: ______________
 
-Instrucciones: Cada problema equivale  a 10 puntos. Todos los problemas se deberán enviar en un solo documentos de google colab. No se recibirán archivos separados. La presentación equivale a 10 puntos. No se permitirá entregas luego del término ni a través de otro medio, solo mediante la plataforma chemacademy.net
+*Instrucciones:* Cada problema equivale  a 10 puntos. Todos los problemas se deberán enviar en un solo documentos de google colab. No se recibirán archivos separados. La presentación equivale a 10 puntos. No se permitirá entregas luego del término ni a través de otro medio, solo mediante la plataforma chemacademy.net
 
 1. Generar una cadena aleatoria de DNA de 2000 nucleótidos: ACGT
 - Contar las veces que se repite la secuencia ATG en dicha cadena
